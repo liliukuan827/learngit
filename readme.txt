@@ -7,3 +7,4 @@ git checkout -b dev
 git branch
 git branch -d dev
 git merge dev
+create a new branch is quick & simple
