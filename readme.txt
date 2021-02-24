@@ -8,4 +8,4 @@ git branch
 git branch -d dev
 git merge dev
 create a new branch is quick and simple
-update
+good
