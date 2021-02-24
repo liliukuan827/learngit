@@ -1,4 +1,4 @@
-Git is a distributed version control system FIX BUG
+Git is a distributed version control system FIX BUG 001
 git is free softwar distributed under the gp;
 git has a mutable index called stage.
 git tracks changes of files
